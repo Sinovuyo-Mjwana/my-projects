@@ -14,6 +14,6 @@ Browse through the sections to explore my work.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Sinovuyo Mjwana](https://github.com/your-username)
 
 ## Contact : sinovuyomjwana09@gmail.com
